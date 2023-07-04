@@ -1,0 +1,39 @@
+{
+    "IsActive": true,
+    "IsOmniScriptEmbeddable": false,
+    "Name": "TextBlock4",
+    "OmniProcessId": {
+        "Name": "CFASubscriberScript",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcess/CFA/SubscriberScript/English",
+        "VlocityRecordSObjectType": "OmniProcess"
+    },
+    "ParentElementId": {
+        "Name": "SignUpToMyCfa",
+        "OmniProcessId": {
+            "Name": "CFASubscriberScript",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniProcess/CFA/SubscriberScript/English",
+            "VlocityRecordSObjectType": "OmniProcess"
+        },
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcessElement/OmniProcess/CFA/SubscriberScript/English/SignUpToMyCfa",
+        "VlocityRecordSObjectType": "OmniProcessElement"
+    },
+    "ParentElementName": "SignUpToMyCfa",
+    "ParentElementType": "Step",
+    "PropertySetConfig": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "dataJSON": false,
+        "label": "TextBlock4",
+        "sanitize": false,
+        "show": null,
+        "text": "<p><span style=\"color: #000000;\">&bull; Notifications of Fire Danger Periods in your area</span><br /><span style=\"color: #000000;\">&bull; Total Fire Ban Notifications</span><br /><span style=\"color: #000000;\">&bull; Advice on Home Fires</span><br /><span style=\"color: #000000;\">&bull; Smoke alarm requirements and reminders</span><br /><span style=\"color: #000000;\">&bull; Seasonal advice</span></p>",
+        "textKey": ""
+    },
+    "Type": "Text Block",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcessElement",
+    "VlocityRecordSourceKey": "OmniProcessElement/OmniProcess/CFA/SubscriberScript/English/TextBlock4"
+}

@@ -1,0 +1,38 @@
+{
+    "IsActive": true,
+    "IsOmniScriptEmbeddable": false,
+    "Name": "MainTextBlock",
+    "OmniProcessId": {
+        "Name": "CFASubscriberScript",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcess/CFA/SubscriberScript/English",
+        "VlocityRecordSObjectType": "OmniProcess"
+    },
+    "ParentElementId": {
+        "Name": "SignUpToMyCfa",
+        "OmniProcessId": {
+            "Name": "CFASubscriberScript",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniProcess/CFA/SubscriberScript/English",
+            "VlocityRecordSObjectType": "OmniProcess"
+        },
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcessElement/OmniProcess/CFA/SubscriberScript/English/SignUpToMyCfa",
+        "VlocityRecordSObjectType": "OmniProcessElement"
+    },
+    "ParentElementName": "SignUpToMyCfa",
+    "ParentElementType": "Step",
+    "PropertySetConfig": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "dataJSON": false,
+        "label": "TextBlock1",
+        "sanitize": false,
+        "text": "<p style=\"margin: 0;\"><img style=\"margin: 0;\" src=\"/servlet/servlet.ImageServer?id=0159t000001JsddAAC&amp;docName=CACDAHADAcaa613971dda4160af4ca47c049fc0e1&amp;oid=00D9t000000cGwb\" alt=\"\" width=\"1661\" height=\"597\" /></p>\n<h1 class=\"slds-p-around_x-small\" style=\"margin-left: 320px; width: 400px; text-align: center; background-color: #168040; color: #ffffff;\">Sign up to MyCFA</h1>",
+        "textKey": ""
+    },
+    "Type": "Text Block",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcessElement",
+    "VlocityRecordSourceKey": "OmniProcessElement/OmniProcess/CFA/SubscriberScript/English/MainTextBlock"
+}

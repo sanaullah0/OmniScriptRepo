@@ -1,0 +1,24 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Get OTP Status",
+    "OmniProcessElement": [
+        "Get_OTPStatus_Element_getOTPStatus.json",
+        "Get_OTPStatus_Element_ResponseAction1.json"
+    ],
+    "OmniProcessKey": "Get_OTPStatus",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "Get_OTPStatus_PropertySetConfig.json",
+    "SubType": "OTPStatus",
+    "Type": "Get",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/Get/OTPStatus/Procedure",
+    "WebComponentKey": "befaddf9-9173-ec1c-4938-70fe28fd3914"
+}

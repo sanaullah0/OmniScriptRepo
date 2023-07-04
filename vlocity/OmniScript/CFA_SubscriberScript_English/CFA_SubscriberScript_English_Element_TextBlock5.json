@@ -1,0 +1,39 @@
+{
+    "IsActive": true,
+    "IsOmniScriptEmbeddable": false,
+    "Name": "TextBlock5",
+    "OmniProcessId": {
+        "Name": "CFASubscriberScript",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcess/CFA/SubscriberScript/English",
+        "VlocityRecordSObjectType": "OmniProcess"
+    },
+    "ParentElementId": {
+        "Name": "SignUpToMyCfa",
+        "OmniProcessId": {
+            "Name": "CFASubscriberScript",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniProcess/CFA/SubscriberScript/English",
+            "VlocityRecordSObjectType": "OmniProcess"
+        },
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcessElement/OmniProcess/CFA/SubscriberScript/English/SignUpToMyCfa",
+        "VlocityRecordSObjectType": "OmniProcessElement"
+    },
+    "ParentElementName": "SignUpToMyCfa",
+    "ParentElementType": "Step",
+    "PropertySetConfig": {
+        "HTMLTemplateId": "",
+        "controlWidth": 12,
+        "dataJSON": false,
+        "label": "TextBlock5",
+        "sanitize": false,
+        "show": null,
+        "text": "<p><span style=\"color: #000000;\">This information is collected by CFA and may be used to improve service delivery and content of CFA programs, assist the community in understanding their local risk, advise of any future meetings/events in relation to bushfire, advertise any changes to Neighbourhood Safer Places, Community Fire Refuges and distribute relevant safety information in relation to risk. Our collection, use and dis-closure of personal information follows the requirements of the Privacy &amp; Data Protection Act 2014.</span></p>",
+        "textKey": ""
+    },
+    "Type": "Text Block",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcessElement",
+    "VlocityRecordSourceKey": "OmniProcessElement/OmniProcess/CFA/SubscriberScript/English/TextBlock5"
+}

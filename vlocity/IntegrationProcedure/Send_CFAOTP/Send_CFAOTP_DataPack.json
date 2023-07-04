@@ -1,0 +1,21 @@
+{
+    "CustomJavaScript": "{}",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "Send CFA OTP",
+    "OmniProcessElement": "Send_CFAOTP_Element_CFAOTPAction.json",
+    "OmniProcessKey": "Send_CFAOTP",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "Send_CFAOTP_PropertySetConfig.json",
+    "SubType": "CFAOTP",
+    "Type": "Send",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/Send/CFAOTP/Procedure",
+    "WebComponentKey": "fb4e3eef-f7f7-70ab-0913-650371a13512"
+}

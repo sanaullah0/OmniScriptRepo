@@ -1,0 +1,4 @@
+[
+    "IntegrationProcedure/Get_OTPStatus",
+    "IntegrationProcedure/Send_CFAOTP"
+]
